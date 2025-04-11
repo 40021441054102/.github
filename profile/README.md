@@ -26,12 +26,28 @@
   <img src="https://github.com/40021441054102/.github/blob/main/assets/14.png" width="15%"/>
 </div>
 <div align="center">
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/11.png" alt="" width="15%"/>
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/12.png" alt="" width="15%"/>
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/7.png" alt="" width="15%"/>
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/8.png" alt="" width="15%"/>
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/9.png" alt="" width="15%"/>
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/10.png" alt="" width="15%"/>
+</div>
+<div align="center">
   <img src="https://github.com/40021441054102/.github/blob/main/assets/4.png" width="15%"/>
   <img src="https://github.com/40021441054102/.github/blob/main/assets/6.jpg" width="15%"/>
   <img src="https://github.com/40021441054102/.github/blob/main/assets/21.png" width="15%"/>
   <img src="https://github.com/40021441054102/.github/blob/main/assets/1.png" width="15%"/>
   <img src="https://github.com/40021441054102/.github/blob/main/assets/28.png" width="15%"/>
   <img src="https://github.com/40021441054102/.github/blob/main/assets/9.png" width="15%"/>
+</div>
+<div align="center">
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/1.png" alt="" width="15%"/>
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/2.png" alt="" width="15%"/>
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/3.png" alt="" width="15%"/>
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/4.png" alt="" width="15%"/>
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/5.png" alt="" width="15%"/>
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/6.png" alt="" width="15%"/>
 </div>
 <div align="center">
   <img src="https://github.com/40021441054102/.github/blob/main/assets/17.png" width="15%"/>
@@ -57,6 +73,12 @@
   <img src="https://github.com/40021441054102/.github/blob/main/assets/10.jpg" width="15%"/>
   <img src="https://github.com/40021441054102/.github/blob/main/assets/29.png" width="15%"/>
 </div>
+<div align="center">
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/13.png" alt="" width="15%"/>
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/14.png" alt="" width="15%"/>
+  <img src="https://github.com/40021441054102/Computer-Graphics/blob/main/Assets/15.png" alt="" width="15%"/>
+</div>
+
 <!--
 ## Projects
 
