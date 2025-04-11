@@ -104,6 +104,6 @@ Feel free to explore, use, and contribute to these projects. Your contributions,
 
 ## Contact
 You can reach me through GitHub if you have any questions or would like to collaborate on a project.
-- [Githib](github.com/ramtinkosari)
+- [Github](github.com/ramtinkosari)
 - [Telegram](t.me/RamtinKosari)
 - Instagram @ramtin.qb
